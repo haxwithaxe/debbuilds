@@ -1,4 +1,4 @@
 debbuilds
 =========
 
-SlackBuild like scripts for debian
+Packages made from the SlackBuild like scripts for debian.
